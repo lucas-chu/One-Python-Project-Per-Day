@@ -1,11 +1,4 @@
-x = input()
-def capsizer(x):
-    x = str(x)
-    x = x.upper()
-    n = 0
-    s = []
-    for x in range (0,len(x)):
-        s[n] = x[n]
-        s.append(' ')
-        n = n + 1
-    return s
+x = input("What would you like to capsize: ")
+x = " ".join(x.upper().split(" "))
+for n in range(0,len(x)):
+    print(x[n], end=' ')

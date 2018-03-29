@@ -1,4 +1,5 @@
-import math *
+from math import *
+# p equals +
 # Honors adds .25
 # Advanced Honors adds .50
 # AP adds .75
@@ -12,9 +13,9 @@ class Honors:
     self.weighted = 0.25
 
 A = 4.00
-B+ = 3.50
+Bp = 3.50
 B = 3.00
-C+ = 2.50
+Cp = 2.50
 C = 2.00
 D = 1.00
 F = 0.00
