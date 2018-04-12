@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="436e4e22-0ff9-4fb4-926c-9e0d90f838f4" name="Default" comment="" />
+=======
+    <list default="true" id="fc7f8998-8ef3-4670-959f-363b06e4442f" name="Default" comment="" />
+>>>>>>> c3c6e3db3e63519992390f489e5b6ff993364923
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,15 +13,186 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+=======
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/One_Python_Project_Per_Day$Bayes_coins.coverage" NAME="Bayes coins Coverage Results" MODIFIED="1522625057967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/One_Python_Project_Per_Day$Bayesian_Coin_Flips.coverage" NAME="Bayesian Coin Flips Coverage Results" MODIFIED="1522625278543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/One_Python_Project_Per_Day$3_27_18_turtle_ngon.coverage" NAME="3-27-18 turtle ngon Coverage Results" MODIFIED="1522007066921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/One_Python_Project_Per_Day$to_do_list.coverage" NAME="to-do list Coverage Results" MODIFIED="1521820603959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/One_Python_Project_Per_Day$3_20_18_capsizer.coverage" NAME="3-20-18 capsizer Coverage Results" MODIFIED="1521820393232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/One_Python_Project_Per_Day$3_profound.coverage" NAME="3 profound Coverage Results" MODIFIED="1522802336625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/April" />
+    <SUITE FILE_PATH="coverage/One_Python_Project_Per_Day$3_26_18_turtle.coverage" NAME="3-26-18 turtle Coverage Results" MODIFIED="1522005257823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/One_Python_Project_Per_Day$password.coverage" NAME="password Coverage Results" MODIFIED="1522112766447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/One_Python_Project_Per_Day$3_30_18_capsize_improved.coverage" NAME="3-30-18 capsize improved Coverage Results" MODIFIED="1522622617056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/March" />
+    <SUITE FILE_PATH="coverage/One_Python_Project_Per_Day$7_binomial.coverage" NAME="7 binomial Coverage Results" MODIFIED="1523067816000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/One_Python_Project_Per_Day$4_notemaker.coverage" NAME="4 notemaker Coverage Results" MODIFIED="1522802460167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/April" />
+    <SUITE FILE_PATH="coverage/One_Python_Project_Per_Day$inheritance.coverage" NAME="inheritance Coverage Results" MODIFIED="1522099114848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/One_Python_Project_Per_Day$5_fUnNy_wOrDs.coverage" NAME="5 fUnNy wOrDs Coverage Results" MODIFIED="1522979817506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/April" />
+    <SUITE FILE_PATH="coverage/One_Python_Project_Per_Day$turtle.coverage" NAME="turtle Coverage Results" MODIFIED="1521836378176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/One_Python_Project_Per_Day$3_19_18_days_between.coverage" NAME="3-19-18 days between Coverage Results" MODIFIED="1521820222448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/One_Python_Project_Per_Day$sum_of_numbers_between.coverage" NAME="sum of numbers between Coverage Results" MODIFIED="1521827284627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/One_Python_Project_Per_Day$3_26_18_turtle_shapes.coverage" NAME="3-26-18 turtle shapes Coverage Results" MODIFIED="1522007688377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/One_Python_Project_Per_Day$3_29_18_capsizer.coverage" NAME="3-29-18 capsizer Coverage Results" MODIFIED="1522289449501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/One_Python_Project_Per_Day$1_priceofschool.coverage" NAME="1 priceofschool Coverage Results" MODIFIED="1522707100116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/April" />
+    <SUITE FILE_PATH="coverage/One_Python_Project_Per_Day$3_25_18_Tutorial.coverage" NAME="3-25-18 Tutorial Coverage Results" MODIFIED="1521822515535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/One_Python_Project_Per_Day$binary.coverage" NAME="binary Coverage Results" MODIFIED="1522869048152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/April" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
+      <file leaf-file-name="Plan, Ploy, &amp; Pattern" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Plan, Ploy, &amp; Pattern">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="733">
+              <caret line="71" column="0" lean-forward="true" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="7 binomial.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/7 binomial.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3-30-18 capsize improved.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/March/3-30-18 capsize improved.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3 profound.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/April/3 profound.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4 notemaker.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/April/4 notemaker.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="986">
+              <caret line="35" column="9" lean-forward="false" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2 to-do list.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/April/2 to-do list.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1102">
+              <caret line="39" column="29" lean-forward="false" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3-21-18 numberguess.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/March/3-21-18 numberguess.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>from human</find>
+      <find>Human</find>
+      <find>forward</find>
+      <find>def forward</find>
+      <find>speed</find>
+      <find>done</find>
+      <find>reset</find>
+      <find>pos</find>
+      <find>pos</find>
+      <find>pos</find>
+      <find>pos()</find>
+      <find>pos(self)</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/overandover.py" />
+        <option value="$PROJECT_DIR$/GPA calculator.py" />
+        <option value="$PROJECT_DIR$/3-19-18 days between.py" />
+        <option value="$PROJECT_DIR$/to-do list.py" />
+        <option value="$PROJECT_DIR$/3-20-18 capsizer.py" />
+        <option value="$PROJECT_DIR$/human.py" />
+        <option value="$PROJECT_DIR$/superhero.py" />
+        <option value="$PROJECT_DIR$/3-25-18 Tutorial.py" />
+        <option value="$PROJECT_DIR$/bat.py" />
+        <option value="$PROJECT_DIR$/Tutorial/batman, a bat human superhero.py" />
+        <option value="$PROJECT_DIR$/sum of numbers between.py" />
+        <option value="$PROJECT_DIR$/turtle.py" />
+        <option value="$PROJECT_DIR$/Notes" />
+        <option value="$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/turtle.py" />
+        <option value="$PROJECT_DIR$/ngon.py" />
+        <option value="$PROJECT_DIR$/3-26-18 turtle.py" />
+        <option value="$PROJECT_DIR$/3-27-18 turtle ngon.py" />
+        <option value="$PROJECT_DIR$/inheritance.py" />
+        <option value="$PROJECT_DIR$/3-26-18 turtle shapes.py" />
+        <option value="$PROJECT_DIR$/password.py" />
+        <option value="$PROJECT_DIR$/3-25-18 GPA calculator.py" />
+        <option value="$PROJECT_DIR$/3-29-18 capsizer.py" />
+        <option value="$PROJECT_DIR$/March/autohotkeys.py" />
+        <option value="$PROJECT_DIR$/March/3-30-18 capsize improved.py" />
+        <option value="$PROJECT_DIR$/Bayes coins.py" />
+        <option value="$PROJECT_DIR$/Bayesian Coin Flips.py" />
+        <option value="$PROJECT_DIR$/priceofschool.py" />
+        <option value="$PROJECT_DIR$/WIP/to-do list.py" />
+        <option value="$PROJECT_DIR$/April/note maker.py" />
+        <option value="$PROJECT_DIR$/April/1 priceofschool.py" />
+        <option value="$PROJECT_DIR$/April/3 profound.py" />
+        <option value="$PROJECT_DIR$/April/4 notemaker.py" />
+        <option value="$PROJECT_DIR$/April/binary.py" />
+        <option value="$PROJECT_DIR$/April/center.py" />
+        <option value="$PROJECT_DIR$/5 fUnNy wOrDs.py" />
+        <option value="$PROJECT_DIR$/April/5 fUnNy wOrDs.py" />
+        <option value="$PROJECT_DIR$/Plan, Ploy, &amp; Pattern" />
+        <option value="$PROJECT_DIR$/7 binomial.py" />
+      </list>
+    </option>
+  </component>
+>>>>>>> c3c6e3db3e63519992390f489e5b6ff993364923
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+<<<<<<< HEAD
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
@@ -29,6 +204,47 @@
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+=======
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1909" />
+    <option name="width" value="1942" />
+    <option name="height" value="2101" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyArgumentListInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+>>>>>>> c3c6e3db3e63519992390f489e5b6ff993364923
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -39,17 +255,58 @@
               <item name="One-Python-Project-Per-Day" type="b2602c69:ProjectViewProjectNode" />
               <item name="One-Python-Project-Per-Day" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
+=======
+            <path>
+              <item name="One-Python-Project-Per-Day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="One-Python-Project-Per-Day" type="462c0819:PsiDirectoryNode" />
+              <item name="April" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="One-Python-Project-Per-Day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="One-Python-Project-Per-Day" type="462c0819:PsiDirectoryNode" />
+              <item name="March" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="One-Python-Project-Per-Day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="One-Python-Project-Per-Day" type="462c0819:PsiDirectoryNode" />
+              <item name="Tutorial" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="One-Python-Project-Per-Day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="One-Python-Project-Per-Day" type="462c0819:PsiDirectoryNode" />
+              <item name="WIP" type="462c0819:PsiDirectoryNode" />
+            </path>
+>>>>>>> c3c6e3db3e63519992390f489e5b6ff993364923
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+<<<<<<< HEAD
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+=======
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\chul\Documents\GitHub\One-Python-Project-Per-Day\April" />
+      <recent name="C:\Users\chul\Documents\GitHub\One-Python-Project-Per-Day\Tutorial" />
+      <recent name="C:\Users\chul\Documents\GitHub\One-Python-Project-Per-Day\WIP" />
+    </key>
+  </component>
+>>>>>>> c3c6e3db3e63519992390f489e5b6ff993364923
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -62,11 +319,151 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
+=======
+  <component name="RunManager" selected="Python.7 binomial">
+    <configuration name="3 profound" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/April" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="One-Python-Project-Per-Day" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/April/3 profound.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="4 notemaker" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/April" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="One-Python-Project-Per-Day" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/April/4 notemaker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="5 fUnNy wOrDs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/April" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="One-Python-Project-Per-Day" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/April/5 fUnNy wOrDs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="7 binomial" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="One-Python-Project-Per-Day" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7 binomial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="binary" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/April" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="One-Python-Project-Per-Day" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/April/binary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="turtle" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="One-Python-Project-Per-Day" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/turtle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Python.turtle" />
+      <item index="1" class="java.lang.String" itemvalue="Python.3 profound" />
+      <item index="2" class="java.lang.String" itemvalue="Python.4 notemaker" />
+      <item index="3" class="java.lang.String" itemvalue="Python.binary" />
+      <item index="4" class="java.lang.String" itemvalue="Python.5 fUnNy wOrDs" />
+      <item index="5" class="java.lang.String" itemvalue="Python.7 binomial" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.7 binomial" />
+        <item index="1" class="java.lang.String" itemvalue="Python.5 fUnNy wOrDs" />
+        <item index="2" class="java.lang.String" itemvalue="Python.binary" />
+        <item index="3" class="java.lang.String" itemvalue="Python.4 notemaker" />
+        <item index="4" class="java.lang.String" itemvalue="Python.3 profound" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+>>>>>>> c3c6e3db3e63519992390f489e5b6ff993364923
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="436e4e22-0ff9-4fb4-926c-9e0d90f838f4" name="Default" comment="" />
       <created>1523538434307</created>
       <option name="number" value="Default" />
@@ -99,6 +496,50 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+=======
+      <changelist id="fc7f8998-8ef3-4670-959f-363b06e4442f" name="Default" comment="" />
+      <created>1521766340145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521766340145</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-12" y="-12" width="3864" height="2114" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32961783" sideWeight="0.49893674" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32961783" sideWeight="0.5194046" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32961783" sideWeight="0.49893674" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32870123" sideWeight="0.4902174" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32961783" sideWeight="0.48059544" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292357" sideWeight="0.4869565" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1738437" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32987773" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2498671" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16135034" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="0" y="0" width="435" height="1901" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+>>>>>>> c3c6e3db3e63519992390f489e5b6ff993364923
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,4 +548,176 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/3-20-18 capsizer.py" />
+    <entry file="file://$PROJECT_DIR$/overandover.py" />
+    <entry file="file://$PROJECT_DIR$/../../Python Scripts/converter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Google Drive/Python/order.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GPA calculator.py" />
+    <entry file="file://$PROJECT_DIR$/../../Python Scripts/iotaseedgenerator.py" />
+    <entry file="file://$PROJECT_DIR$/human.py" />
+    <entry file="file://$PROJECT_DIR$/superhero.py" />
+    <entry file="file://$PROJECT_DIR$/bat.py" />
+    <entry file="file://$PROJECT_DIR$/3-25-18 Tutorial.py" />
+    <entry file="file://$PROJECT_DIR$/Tutorial/batman, a bat human superhero.py" />
+    <entry file="file://$PROJECT_DIR$/3-20-18 capsizer.py" />
+    <entry file="file://$PROJECT_DIR$/sum of numbers between.py" />
+    <entry file="file://$PROJECT_DIR$/turtle.py" />
+    <entry file="file://$PROJECT_DIR$/ngon.py" />
+    <entry file="file://$PROJECT_DIR$/3-26-18 turtle.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/turtle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-292">
+          <caret line="1536" column="8" lean-forward="true" selection-start-line="1536" selection-start-column="8" selection-end-line="1536" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3-21-18 numberguess.py" />
+    <entry file="file://$PROJECT_DIR$/3-26-18 turtle shapes.py" />
+    <entry file="file://$PROJECT_DIR$/password.py" />
+    <entry file="file://$PROJECT_DIR$/3-19-18 days between.py" />
+    <entry file="file://$PROJECT_DIR$/3-27-18 turtle ngon.py" />
+    <entry file="file://$USER_HOME$/Desktop/capsize.py" />
+    <entry file="file://$PROJECT_DIR$/3-29-18 capsizer.py" />
+    <entry file="file://$PROJECT_DIR$/3-26-18 password.py" />
+    <entry file="file://$PROJECT_DIR$/3-25-18 GPA calculator.py" />
+    <entry file="file://$PROJECT_DIR$/inheritance.py" />
+    <entry file="file://$PROJECT_DIR$/March/numberguess.py" />
+    <entry file="file://$PROJECT_DIR$/March/3-29-18 capsizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/March/autohotkeys.py" />
+    <entry file="file://$PROJECT_DIR$/Bayes coins.py" />
+    <entry file="file://$PROJECT_DIR$/Bayesian Coin Flips.py" />
+    <entry file="file://$PROJECT_DIR$/priceofschool.py" />
+    <entry file="file://$PROJECT_DIR$/WIP/webcrawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WIP/to-do list.py" />
+    <entry file="file://$PROJECT_DIR$/April/note maker.py" />
+    <entry file="file://$PROJECT_DIR$/March/3-21-18 numberguess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorial/list1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WIP/stamps.py" />
+    <entry file="file://$PROJECT_DIR$/WIP/words.py" />
+    <entry file="file://$PROJECT_DIR$/Tutorial/Notes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/April/3 profound.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/April/center.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/April/1 priceofschool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/April/2 to-do list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1102">
+          <caret line="39" column="29" lean-forward="false" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/April/binary.py" />
+    <entry file="file://$PROJECT_DIR$/April/4 notemaker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="35" column="9" lean-forward="false" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/March/3-30-18 capsize improved.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/April/5 fUnNy wOrDs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plan, Ploy, &amp; Pattern">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="733">
+          <caret line="71" column="0" lean-forward="true" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7 binomial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+>>>>>>> c3c6e3db3e63519992390f489e5b6ff993364923
 </project>
