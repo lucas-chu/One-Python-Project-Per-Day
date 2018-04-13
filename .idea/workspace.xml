@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="436e4e22-0ff9-4fb4-926c-9e0d90f838f4" name="Default" comment="" />
+=======
     <list default="true" id="fc7f8998-8ef3-4670-959f-363b06e4442f" name="Default" comment="" />
+>>>>>>> c3c6e3db3e63519992390f489e5b6ff993364923
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,6 +13,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+=======
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/One_Python_Project_Per_Day$Bayes_coins.coverage" NAME="Bayes coins Coverage Results" MODIFIED="1522625057967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/One_Python_Project_Per_Day$Bayesian_Coin_Flips.coverage" NAME="Bayesian Coin Flips Coverage Results" MODIFIED="1522625278543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -164,12 +173,26 @@
       </list>
     </option>
   </component>
+>>>>>>> c3c6e3db3e63519992390f489e5b6ff993364923
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+<<<<<<< HEAD
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="20" />
+    <option name="y" value="40" />
+    <option name="width" value="2696" />
+    <option name="height" value="1584" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+=======
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1909" />
     <option name="width" value="1942" />
@@ -209,6 +232,7 @@
       <autoscrollFromSource />
       <sortByType />
       <manualOrder />
+>>>>>>> c3c6e3db3e63519992390f489e5b6ff993364923
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -220,6 +244,8 @@
               <item name="One-Python-Project-Per-Day" type="b2602c69:ProjectViewProjectNode" />
               <item name="One-Python-Project-Per-Day" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
+=======
             <path>
               <item name="One-Python-Project-Per-Day" type="b2602c69:ProjectViewProjectNode" />
               <item name="One-Python-Project-Per-Day" type="462c0819:PsiDirectoryNode" />
@@ -240,11 +266,24 @@
               <item name="One-Python-Project-Per-Day" type="462c0819:PsiDirectoryNode" />
               <item name="WIP" type="462c0819:PsiDirectoryNode" />
             </path>
+>>>>>>> c3c6e3db3e63519992390f489e5b6ff993364923
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+=======
+      <pane id="Scratches" />
+>>>>>>> bef0302b9babd9c16c4d8a71ade639043fb019b2
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -259,6 +298,7 @@
       <recent name="C:\Users\chul\Documents\GitHub\One-Python-Project-Per-Day\WIP" />
     </key>
   </component>
+>>>>>>> c3c6e3db3e63519992390f489e5b6ff993364923
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -271,8 +311,15 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.10 chess board">
     <configuration name="10 chess board" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+<<<<<<< HEAD
+=======
+  <component name="RunManager" selected="Python.7 binomial">
+    <configuration name="3 profound" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> bef0302b9babd9c16c4d8a71ade639043fb019b2
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -407,11 +454,46 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+>>>>>>> c3c6e3db3e63519992390f489e5b6ff993364923
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
+      <changelist id="436e4e22-0ff9-4fb4-926c-9e0d90f838f4" name="Default" comment="" />
+      <created>1523538434307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523538434307</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="20" width="1348" height="792" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962519" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="SciView" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+=======
       <changelist id="fc7f8998-8ef3-4670-959f-363b06e4442f" name="Default" comment="" />
       <created>1521766340145</created>
       <option name="number" value="Default" />
@@ -454,6 +536,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+>>>>>>> c3c6e3db3e63519992390f489e5b6ff993364923
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -462,6 +545,8 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+<<<<<<< HEAD
+=======
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -691,4 +776,5 @@
       </provider>
     </entry>
   </component>
+>>>>>>> c3c6e3db3e63519992390f489e5b6ff993364923
 </project>
