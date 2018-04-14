@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Session SID="34" BitFlags="19">
+  <SessionTimers ClientConnected="2018-04-12T23:57:42.3882745-04:00" ClientBeginRequest="2018-04-12T23:57:44.3725201-04:00" GotRequestHeaders="2018-04-12T23:57:44.3725201-04:00" ClientDoneRequest="2018-04-12T23:57:44.3725201-04:00" GatewayTime="0" DNSTime="0" TCPConnectTime="0" HTTPSHandshakeTime="0" ServerConnected="2018-04-12T23:57:42.4260545-04:00" FiddlerBeginRequest="2018-04-12T23:57:44.3730218-04:00" ServerGotRequest="2018-04-12T23:57:44.3730218-04:00" ServerBeginResponse="2018-04-12T23:57:44.4226577-04:00" GotResponseHeaders="2018-04-12T23:57:44.4226577-04:00" ServerDoneResponse="2018-04-12T23:57:44.4226577-04:00" ClientBeginResponse="2018-04-12T23:57:44.4226577-04:00" ClientDoneResponse="2018-04-12T23:57:44.4231587-04:00" />
+  <PipeInfo CltReuse="true" Reused="true" />
+  <SessionFlags>
+    <SessionFlag N="x-egressport" V="64555" />
+    <SessionFlag N="x-responsebodytransferlength" V="21" />
+    <SessionFlag N="x-clientport" V="64554" />
+    <SessionFlag N="x-clientip" V="127.0.0.1" />
+    <SessionFlag N="x-serversocket" V="REUSE ServerPipe#27" />
+    <SessionFlag N="x-hostip" V="199.27.208.31" />
+    <SessionFlag N="x-processinfo" V="firefox:25740" />
+  </SessionFlags>
+</Session>

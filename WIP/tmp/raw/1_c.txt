@@ -1,0 +1,31 @@
+POST https://tracking.rosettastone.com/ee/ce/fordham/users/1121259/path_scores?course=SK-ESP-L5-NA-PE-NA-NA-Y-3&unit_index=2&lesson_index=0&path_type=general&occurrence=1&_method=put HTTP/1.1
+Host: tracking.rosettastone.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Cookie: tracking_session=c3b053a6-2c5a-497c-9e3d-4d00305d8ca0
+Connection: keep-alive
+Referer: https://resources.rosettastone.com/rs/application/5.0.42.0-43363/OnlineApp.swf
+Content-type: text/xml
+X-ROSETTASTONE-APP-VERSION: Course App/5.0.42 (43365)
+X-ROSETTASTONE-SESSION-TOKEN: 4d06f15bd005571779bae217faa253aa1b9ff0b9c17242df5be459e954054a81bdf89760b1924d2e
+X-ROSETTASTONE-PROTOCOL-VERSION: 8
+X-ROSETTASTONE-APP-BUILD: true
+Content-length: 497
+
+<path_score>
+  <course>SK-ESP-L5-NA-PE-NA-NA-Y-3</course>
+  <unit_index>2</unit_index>
+  <lesson_index>0</lesson_index>
+  <path_type>general</path_type>
+  <occurrence>1</occurrence>
+  <complete>true</complete>
+  <score_correct>109</score_correct>
+  <score_incorrect>2</score_incorrect>
+  <score_skipped>0</score_skipped>
+  <number_of_challenges>111</number_of_challenges>
+  <is_lagged_review_path>false</is_lagged_review_path>
+  <delta_time>80</delta_time>
+  <version>177914</version>
+</path_score>
