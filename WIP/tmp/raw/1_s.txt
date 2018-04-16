@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Fri, 13 Apr 2018 03:57:05 GMT
+Server: Apache
+ETag: "7215ee9c7d9dc229d2921a40e899ec5f"
+Cache-Control: private, max-age=0, must-revalidate
+X-Runtime: 28
+X-Hostname: ashopx009
+Vary: Accept-Encoding
+Content-Length: 1
+Keep-Alive: timeout=15, max=80
+Connection: Keep-Alive
+Content-Type: text/html; charset=utf-8
+
+ 
