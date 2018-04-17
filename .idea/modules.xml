@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../.idea/GitHub.iml" filepath="$PROJECT_DIR$/../.idea/GitHub.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/One-Python-Project-Per-Day.iml" filepath="$PROJECT_DIR$/.idea/One-Python-Project-Per-Day.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/untitled/.idea/untitled.iml" filepath="$USER_HOME$/PycharmProjects/untitled/.idea/untitled.iml" />
     </modules>
   </component>
 </project>
