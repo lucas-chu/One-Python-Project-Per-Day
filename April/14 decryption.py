@@ -28,8 +28,9 @@ def deqwerty(code, x):
     table2 = str.maketrans(keyboard, shifted_keyboard)
     print(code.translate(table2))
 
-caesar('potato',12)
-qwerty('encrypted', 2)
 
-decaesar('bafmfa', 12)
-deqwerty('tqbyisutg', 2)
+a = str(input("Code:"))
+b = int(input("Shift: "))
+
+
+caesar(a,b)
