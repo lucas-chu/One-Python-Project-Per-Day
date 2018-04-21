@@ -4,7 +4,6 @@ from googlesearch import hits, get_page
 from multiprocessing import Process, Manager
 import pytesseract, requests, mss, json, webbrowser, urllib, wikipedia, time, sys
 
-
 googleapikey = "AIzaSyAvEnHZEX52CdbUeHpCAis5xHiNhf8gAwk"
 monitor = {'top': 303, 'left': 1354, 'width': 471, 'height': 836}
 replaces = [["|", "I"], ['\n', ' '], ['‘', '\''], ['“', '"'], ["”", '"']]
@@ -47,6 +46,7 @@ def type1(q, a1, a2, a3, ret):
 	else:
 		ret['type1'] = "error"
 
+#MKC1te
 def type2(q, a1, a2, a3, ret):
 	r = str(get_page("https://www.google.com/search?q="+urllib.parse.quote_plus(q)))
 	o = r.count(a1)
