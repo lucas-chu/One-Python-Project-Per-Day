@@ -27,7 +27,7 @@ for v in files:
         data = f.read()
         f.close()
     data = data.replace("<complete>false</complete>", "<complete>true</complete>")
-    total = find_between(data, "<number_of_challenges>", "</number_of_challenges>")
+    total = int(find_between(data, "<number_of_challenges>", "</number_of_challenges>"))
     if total == '':
         break
     correct = total-random.randrange(0,round(total/10))
