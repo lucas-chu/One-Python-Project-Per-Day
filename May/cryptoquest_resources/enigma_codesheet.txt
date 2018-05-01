@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------   
+Day  Rotors      Ring Setting       Plug Connections        Identification Groups 
+--------------------------------------------------------------------------------- 
+31   I   II   V    06 22 14   PO ML IU KJ NH YT GB VF RE DC   EXS TGY IKJ LOP 
+30   III IV  II    17 04 26   BN VC XS WQ AZ GT YH JU IK PM   KIJ TFR BVC ZAE 
+29   V   I  III    15 02 09   ML KJ HG FD SQ TR EZ IU BV XC   QZE TRF IOU TGB 
